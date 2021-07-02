@@ -39,6 +39,8 @@ hr {
 img {
   width: 100%;
   border-radius: 10px;
+  filter: grayscale(50%) contrast(1);
+  mix-blend-mode: hard-light;
 }
 
 /*Foregrounds*/
